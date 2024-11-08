@@ -12309,3 +12309,7 @@ https://pt-runner.app.ridewithvia.com
 app.saltlabs.com
 app.staging.saltlabs.com
 saltlabs.com
+web.crypto.com
+developer-platform-api.crypto.com
+new.express.adobe.com
+net.s2stagehance.com

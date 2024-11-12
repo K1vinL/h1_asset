@@ -740,3 +740,4 @@
 55357	https://hackerone.com/wellsfargo-bbp	Wells Fargo Bounty	wellsfargo-bbp
 85016	https://hackerone.com/itau_unibanco	Itaú Unibanco	itau_unibanco
 81476	https://hackerone.com/tomtom	TomTom	tomtom
+82258	https://hackerone.com/mintel	Mintel	mintel

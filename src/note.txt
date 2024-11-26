@@ -742,3 +742,4 @@
 81476	https://hackerone.com/tomtom	TomTom	tomtom
 82258	https://hackerone.com/mintel	Mintel	mintel
 77110	https://hackerone.com/porsche	Porsche	porsche
+85929	https://hackerone.com/starbucks_china	Starbucks China	starbucks_china

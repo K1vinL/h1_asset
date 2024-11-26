@@ -556,3 +556,4 @@ id1668462142
 https://apps.apple.com/de/app/my-porsche/id1559529059
 id1621328561
 com.nbaimd.gametime.universal
+Starbucks China iOS

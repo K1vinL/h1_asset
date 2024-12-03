@@ -743,3 +743,4 @@
 82258	https://hackerone.com/mintel	Mintel	mintel
 77110	https://hackerone.com/porsche	Porsche	porsche
 85929	https://hackerone.com/starbucks_china	Starbucks China	starbucks_china
+86897	https://hackerone.com/ishosting	is*hosting	ishosting

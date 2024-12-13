@@ -555,3 +555,4 @@ Starbucks China Android
 company.thebrowser.arc
 com.bykea.pk
 com.bykea.pk.partner
+Drogas.Lietuva.Android

@@ -556,3 +556,15 @@ company.thebrowser.arc
 com.bykea.pk
 com.bykea.pk.partner
 Drogas.Lietuva.Android
+Starbucks Austria Android App
+Starbucks Czech Republic 
+Starbucks France Android
+Starbucks Germany Android
+Starbucks Portugal Android
+Starbucks Ireland Android
+Starbucks Romania Android
+Starbucks South Africa Android
+Starbucks Spain Android
+Starbucks Switzerland Android
+Starbucks Turkey Android
+Starbucks United Kingdom Android

@@ -568,3 +568,5 @@ Starbucks Spain Android
 Starbucks Switzerland Android
 Starbucks Turkey Android
 Starbucks United Kingdom Android
+https://play.google.com/store/apps/details?id=com.verily.me
+https://play.google.com/store/apps/details?id=com.google.android.apps.diabetes

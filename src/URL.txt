@@ -16639,3 +16639,4 @@ mqttups-tst.fleetboard.com
 mqttups.fleetboard.com
 mx01.fleetboard.com
 editionhotels.com
+vault2.faraday.ai

@@ -16640,3 +16640,5 @@ mqttups.fleetboard.com
 mx01.fleetboard.com
 editionhotels.com
 vault2.faraday.ai
+https://dzyne.com
+va-appgate-ctrl1.dzyne.com

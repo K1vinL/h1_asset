@@ -18792,3 +18792,7 @@ supplier-api.getyourguide.com
 supplier-support.getyourguide.com
 supplier.getyourguide.com
 aa-ob.com
+app.paybox.sh
+api.paybox.sh
+iframe.moonx-dev.com
+api.moonx-dev.com

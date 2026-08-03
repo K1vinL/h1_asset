@@ -18907,3 +18907,4 @@ downloads.varonis.com
 my.varonis.com
 support.varonis.com
 empidwatch.sontiq.com
+pay.exodus.io

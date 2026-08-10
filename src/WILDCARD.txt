@@ -5539,3 +5539,4 @@ www.*.gogoair.*.com
 *.pringles.com
 *.base.app
 *.henkeldx.com
+*.securiti.ai

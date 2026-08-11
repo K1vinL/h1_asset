@@ -18944,3 +18944,8 @@ fiat.a.exodus.io
 fiat-p.a.exodus.io
 fiat-prod-fallback.a.exodus.io
 kyc.a.exodus.io
+prismlife.com
+patron.oyorooms.com
+verify-uat-canada.ccid.neustar.biz
+fraudforce.iovation.com
+ftp.reallybigbank.com

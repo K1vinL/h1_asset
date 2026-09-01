@@ -32,3 +32,4 @@ payflow.appslatam.com
 srtlatam.appslatam.com
 supportdispatch.appslatam.com
 andeslatam.tech
+artifactoryrepo1.appslatam.com

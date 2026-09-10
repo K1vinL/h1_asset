@@ -22,3 +22,5 @@
 *.hotwirepartnercentral.com
 *.orbitz.com
 *.expedia-aarp.com
+*.flights.com
+*.stayz.com.au

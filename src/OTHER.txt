@@ -1954,3 +1954,5 @@ Lakebase-Supported extensions
 Files.com SDKs and MCP
 Heartland Developer Portal
 BigQuery
+H5G/Agency
+mail.hostinger.com

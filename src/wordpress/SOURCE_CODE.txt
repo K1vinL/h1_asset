@@ -8,3 +8,8 @@ WP-CLI
 Official WordPress plugins
 bbPress Core
 Secure Custom Fields
+*.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
+SQLite Database Integration
+Create Block Theme
+github.com/wordpress
+Playground
